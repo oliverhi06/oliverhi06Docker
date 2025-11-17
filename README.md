@@ -43,6 +43,11 @@ Then, you can just use docker compose.
 `docker compose up`
 
 Your terminal should do something that looks like this: 
-![[Screenshot 2025-11-16 231451.png]]
+<img width="981" height="615" alt="Screenshot 2025-11-16 232026" src="https://github.com/user-attachments/assets/f674a106-f773-4b46-9f0c-7f6251a392d1" />
+<img width="981" height="617" alt="Screenshot 2025-11-16 231451" src="https://github.com/user-attachments/assets/bbd7b89c-c179-4625-808b-8a4200c9ffc6" />
+
 Then, go to FireFox and go to http://localhost:8080. If it lookst like this, you did it!
-###### ![[Screenshot 2025-11-16 232026.png]]
+<img width="981" height="617" alt="Screenshot 2025-11-16 231451" src="https://github.com/user-attachments/assets/87ea2e57-6785-427a-8821-1066a471ed9e" />
+<img width="981" height="615" alt="Screenshot 2025-11-16 232026" src="https://github.com/user-attachments/assets/520f1bee-5da1-43cd-bd15-57523741af95" />
+
+Congrats!
